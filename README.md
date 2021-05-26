@@ -8,7 +8,7 @@
 > 
 >sudo bash cpugov.sh
 
-### **Enjoy ! **
+### Enjoy !
 
 >Nailed with Love™ ❤️
 
