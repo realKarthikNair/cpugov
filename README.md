@@ -6,7 +6,7 @@
 > 
 >cd cpugov
 > 
->sudo bash freq.sh
+>sudo bash cpugov.sh
 
 ### **Enjoy ! **
 
