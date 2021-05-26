@@ -8,6 +8,7 @@
 > 
 >bash cpufreq.sh
 
+### **Enjoy ! **
 
 >Nailed with Love™ ❤️
 
