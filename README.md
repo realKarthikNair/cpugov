@@ -14,5 +14,5 @@
 
 >by Karthik Nair 
 
-[instagram ](https://www.instagram.com/harry_kris_) <br>
+[instagram ](https://www.instagram.com/karthiknair.sh) <br>
 [twitter](https://www.twitter.com/realkarthiknair)
