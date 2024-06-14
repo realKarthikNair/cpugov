@@ -1,18 +1,14 @@
 # cpugov
-## Easily set CPU a Governor to all cores (LINUX ONLY)
+
+## Set CPU governors and AMD Energy Performance Preference on Linux
 
 ### How to use?
->git clone https://github.com/realKarthikNair/cpugov
-> 
->cd cpugov
-> 
->sudo bash cpugov.sh
 
-### Enjoy !
+Fire up the terminal 
 
->Nailed with Love™ ❤️
+```
+wget https://raw.githubusercontent.com/realKarthikNair/cpugov/main/cpugov.sh
+chmod +x cpugov.sh
+./cpugov.sh
+```
 
->by Karthik Nair 
-
-[instagram ](https://www.instagram.com/karthiknair.sh) <br>
-[twitter](https://www.twitter.com/realkarthiknair)
